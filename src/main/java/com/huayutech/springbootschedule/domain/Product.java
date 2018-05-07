@@ -1,9 +1,6 @@
 package com.huayutech.springbootschedule.domain;
 
 import lombok.Data;
-import org.hibernate.annotations.GeneratorType;
-import org.springframework.hateoas.ResourceSupport;
-
 import javax.persistence.*;
 
 @Data
